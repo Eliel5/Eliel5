@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Eliel Riberiro
 
-[! [LinkedIn Badge]![(https://img.shields.io/bagde/-linkedIn-blue?blue?style=flat-square&logoColor=white&line=https://www.linkedin.com/in/eliel-ribeiro-8933b41a7/)
+[! [LinkedIn Badge]![(https://img.shields.io/bagde/-linkedIn-blue?blue?style=flat-square&logoColor=white&line=https://www.linkedin.com/in/eliel-ribeiro-8933b41a7/)]
 
 ### Hello 👋 Welcome to my profile
 
