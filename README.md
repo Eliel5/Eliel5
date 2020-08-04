@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Eliel Riberiro
-
-[! [LinkedIn Badge](https://img.shields.io/bagde/-linkedIn-blue?blue?style=flat-square&logoColor=white&line=https://www.linkedin.com/in/eliel-ribeiro-8933b41a7/)
-
+# Eliel Ribeiro
 ### Hello 👋 Welcome to my profile
 
 My name is Eliel and ...;
