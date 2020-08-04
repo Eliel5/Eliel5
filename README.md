@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Eliel Ribeiro
+# 
 ### Hello 👋 Welcome to my profile
+My name is Eliel
 
-My name is Eliel and ...;
