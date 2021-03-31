@@ -1,6 +1,6 @@
 
 ### Hello 👋 Welcome to my profile
-My name is Eliel
+My name is Eliel,
 I'm a { FrontEnd Developer } 
 
 
